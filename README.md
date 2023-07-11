@@ -2,6 +2,8 @@
 
 We are excited to present **Cudta AI**, our cutting-edge solution optimized for the generation of stock photos. This innovative application merges the capabilities of two powerful AI models: **MidJourney AI** for image generation and **ChatGPT** for creating prompts. 
 
+![Cudta Logo](_bin/Cudta.png)
+
 At present, the process demands manual involvement. However, we are diligently working towards integrating Cudta AI within WordPress for a fully automated experience. 
 
 ## Why Choose Cudta AI for Stock Photos?
